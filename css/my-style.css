@@ -33,6 +33,7 @@ body{
     font-style: normal;
     font-weight: 700;
     line-height: 36px;
+    margin-left: 40px;
     letter-spacing: 0em;
     text-align: left;
 }
@@ -44,6 +45,7 @@ body{
 
 .section__colum{
     padding: 40px;
+    margin-left: 40px;
 }
 
 .section__title{
@@ -90,8 +92,82 @@ body{
     transition: .3s ease all;
 }
 
+.boton--green{
+    background: #3E752A;
+    padding: 10px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+.boton--orange{
+    background: #FBC400;
+    padding: 10px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+.boton--purple{
+    background: #612999;
+    padding: 10px;
+    margin-top: 8px;
+    margin-left: 20px;   
+}
+
 .description__row{
     position: absolute;
     margin-top: 460px;
     width: 100%; 
+}
+
+.space-block{
+    margin-right: 60px;
+}
+
+.card{
+    border-radius: 19px;
+    height: 122px;
+    border: none;
+}
+
+.card--green{
+    background: rgba(111, 149, 81, 0.5);
+}
+
+.card--orange{
+    background: rgba(228, 170, 20, 0.5);
+}
+
+.card--purple{
+    background: rgba(106, 86, 125, 0.5);
+}
+
+.card__title{
+    font-weight: bold;
+    font-size: 15px;
+    width: 100px;
+    color: #fff;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 8px;
+}
+
+.card__description{
+    margin-top: 25px;
+}
+
+.boton--price{
+    background: none;
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.title__description{
+    font-weight: bold;
+    width: 100px;
+    font-size: 10px;
+    color: #fff;
+    text-align: left;
+    text-align: left;
+    margin-left: 15px;
 }
