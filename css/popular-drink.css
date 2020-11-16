@@ -1,0 +1,81 @@
+body{
+    background: #E5E5E5!important;
+}
+
+.header-nabvar{
+    background-color: transparent !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    margin-left: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.nav-link{
+    color: #47137C!important;
+}
+
+.active--sub{
+    background: #612999;
+    color: #fff!important;
+}
+
+.filter{
+    margin-left: 80px;
+    background: rgba(97, 41, 153, 0.1);
+    border-radius: 90px;
+}
+
+.item-center {
+    position: absolute;
+    left: 50%;
+    font-weight: bold;
+    transform: translatex(-50%);
+}
+
+.titulo--drink{
+    color: #47137C;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.card{
+    border: none!important;
+    border-radius: 15px!important;
+}
+
+.card-img{
+    width: 389px;
+    height: 200px;
+    border-radius: 15px!important;
+}
+
+
+.card-text{
+    color: #C8C8C8;
+    font-size: 10px;
+}
+
+.card__price{
+    color: #612999;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card__price:hover{
+    text-decoration: none;
+}
+
+.card__purchase{
+    margin-left: 40px;
+    color: #fff;
+    background: #612999;
+    border-radius: 100px;
+    width: 33px;
+    height: 33px;
+    text-align: center;
+    padding: 8px;
+}
