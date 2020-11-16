@@ -8,8 +8,8 @@ Obtener Bootstrap
 Entrar en la pagina de netlify
 [/https://app.netlify.com](http://https://app.netlify.com)
 
-###Documentacion
+### Documentacion
 [Documentacion del proceso completo](https://docs.google.com/document/d/1cb3z9HEzxLAtjAwPI7iWA6oJlhn9blH1WSnn8wNV-t0/edit?usp=sharing "Documentacion del proceso completo")
 
-###Iconos utilizados
+### Iconos utilizados
 [https://fontawesome.com/](https://fontawesome.com/)
